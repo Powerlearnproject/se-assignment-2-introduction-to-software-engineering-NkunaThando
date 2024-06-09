@@ -274,6 +274,8 @@ Lawton, G. (2020) 5 examples of ethical issues in software development: TechTarg
 What is software maintenance? (2024a) IEEE Computer Society. Available at: https://www.computer.org/resources/software-maintenance#:~:text=Software%20maintenance%20is%20an%20integral,changing%20environment%20throughout%20its%20lifetime. (Accessed: 07 June 2024).
 
 Stephens, R. (2023) Beginning software engineering. Hoboken, NJ: John Wiley & Sons, Inc. 
+
+I also used Germini AI
 ________________________________________________________________________________
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
